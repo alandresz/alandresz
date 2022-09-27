@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alandresz
-- 👀 I’m interested in people, animals, environment, politics, philosophy, psychology, artificial intelligence, mathematics, music
+- 👀 I’m interested in artificial intelligence, data science, machine learning, deep learning, mathematic and music; but also in people, animals, environment, politics, philosophy and psychology
 - 🌱 I’m currently learning how to intersect my many interests in a practise
-- 💞️ I’m looking to collaborate on machine learning/artificial intelligence/neural networks projects with a "common good" objective
+- 💞️ I’m looking to collaborate on machine learning/artificial intelligence/neural networks projects
 - 📫 How to reach me: adreszman@fi.uba.ar, alan.dreszman@gmail.com
 
 <!---
