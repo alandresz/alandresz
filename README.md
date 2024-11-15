@@ -1,11 +1,10 @@
-💻 Data Scientist, in Buenos Aires Argentina
-🛠️ I build models with: Python SQL Spark Azure AWS PyCharm Jupyter Notebook (Anaconda) Zsh/Bash Databricks ...
+- 💻 Data Scientist, in Buenos Aires Argentina
+- 🛠️ I build models with: Python SQL Spark Azure AWS PyCharm Jupyter Notebook (Anaconda) Zsh/Bash Databricks ...
+- ⚡ I enjoy: reading, writing, playing football, making music and lifting weights :)
+- 🧑‍🎓 Master's in Electronic Engineering
+- 📫 How to reach me: alan.dreszman@gmail.com
+
 <!-- ✍️ Write technical blogs on Medium and Newsletter -->
-⚡ I enjoy: reading, writing, playing football, making music and lifting weights :)
-🧑‍🎓 Master's in Electronic Engineering
-📫 How to reach me: alan.dreszman@gmail.com
-
-
 
 <!--
 
