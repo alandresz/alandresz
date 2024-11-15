@@ -1,3 +1,14 @@
+💻 Data Scientist, in Buenos Aires Argentina
+🛠️ I build models with: Python SQL Spark Azure AWS PyCharm Jupyter Notebook (Anaconda) Zsh/Bash Databricks ...
+<!-- ✍️ Write technical blogs on Medium and Newsletter -->
+⚡ I enjoy: reading, writing, playing football, making music and lifting weights :)
+🧑‍🎓 Master's in Electronic Engineering
+📫 How to reach me: alan.dreszman@gmail.com
+
+
+
+<!--
+
 - 👋 Hi, I’m @alandresz
 - 👀 I’m interested in data science, AI, mathematics and music; but also in people, animals, environment, politics, philosophy and psychology
 - 🌱 I’m currently learning how to intersect my many interests in a practise
