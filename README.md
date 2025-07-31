@@ -1,5 +1,5 @@
-- 💻 ML Engineer / Data Scientist, in Buenos Aires Argentina
-- 🛠️ I build models with: Python SQL Spark Azure AWS PyCharm Jupyter Notebook (Anaconda) Zsh/Bash Databricks ...
+- 💻 ML Engineer / Data Scientist based in Buenos Aires Argentina
+- 🛠️ I build models with: Python, SQL, Spark, AWS, PyCharm, Jupyter, Zsh/Bash, Databricks ...
 - ⚡ I enjoy: reading, writing, playing football, making music and lifting weights :)
 - 🧑‍🎓 MSc in Electronic Engineering, currently pursuing my Phd
 - 📫 How to reach me: alan.dreszman@gmail.com
